@@ -31,19 +31,16 @@ amazon-homepage-clone/
 ├── index.html
 ├── style.css
 ├── images/
-│   └── (all images used in the project)
+│   └── screenshot.png
 ```
 
 ---
 
 ## 📸 Screenshots
 
-_Add your project screenshots here after uploading images to GitHub_
-
-Example:
-```
-![Homepage Screenshot](images/screenshot.png)
-```
+<p align="center">
+  <img src="images/screenshot.png" alt="Amazon Homepage Clone" width="100%">
+</p>
 
 ---
 
@@ -61,12 +58,6 @@ Example:
 - Make it fully responsive (mobile-friendly)  
 - Add interactivity using JavaScript  
 - Improve animations and transitions  
-
----
-
-## 🌐 Live Demo
-
-_Add your GitHub Pages link here_
 
 ---
 
